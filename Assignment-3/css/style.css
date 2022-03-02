@@ -73,11 +73,13 @@ h3 {
 .ArticleBody {
     padding: 15px;
 }
+/*
 @media (min-width: 768px) {
     .navbar-nav {
         display: none;
     }
 }
+*/
 
 .TopReturn {
     padding: 15px;
